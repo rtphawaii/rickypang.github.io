@@ -33,8 +33,10 @@ const config = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'Python',
+    'R',
+    'Salesforce Certified',
+    'Tableau',
     'JavaScript',
     'React.js',
     'Node.js',
@@ -45,22 +47,21 @@ const config = {
     'Docker',
     'PHPUnit',
     'CSS',
-    'Antd',
     'Tailwind',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'UC Berkeley School of Information',
+      position: 'Masters in Data Science Candidate',
+      from: 'September 2023',
       to: 'Present',
       companyLink: 'https://example.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
+      company: 'Zendesk',
+      position: 'Sales Operations Analyst',
       from: 'July 2019',
-      to: 'August 2021',
+      to: 'January 2023',
       companyLink: 'https://example.com',
     },
   ],
@@ -74,16 +75,16 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Santa Clara University',
+      degree: 'BS in Economics',
+      from: '2016',
+      to: '2020',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'UC Berkeley',
+      degree: 'Masters in Data Science',
+      from: '2023',
+      to: '2024',
     },
   ],
 

@@ -39,13 +39,9 @@ const config = {
     'Tableau',
     'JavaScript',
     'React.js',
-    'Node.js',
-    'Nest.js',
     'MySQL',
     'PostgreSQL',
     'Git',
-    'Docker',
-    'PHPUnit',
     'CSS',
     'Tailwind',
   ],
@@ -89,7 +85,7 @@ const config = {
   ],
 
   // To hide the `My Projects` section, keep it empty.
-  externalProjects: [
+//  externalProjects: [
     {
      // title: 'Project Name',
    //   description:

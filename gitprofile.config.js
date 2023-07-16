@@ -30,7 +30,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://docs.google.com/document/d/e/2PACX-1vRWBiUUxwm7pECEPbUWn0gHWUTlwfjAqeBRPpwZzovzqYhv81pJFa11WvHLulE88w/pub', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',

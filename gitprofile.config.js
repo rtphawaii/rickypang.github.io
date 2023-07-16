@@ -89,7 +89,7 @@ const config = {
   ],
 
   // To hide the `My Projects` section, keep it empty.
-  externalProjects: [
+//  externalProjects: [
     {
       title: 'Project Name',
       description:

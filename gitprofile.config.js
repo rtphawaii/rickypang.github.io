@@ -61,12 +61,12 @@ const config = {
       companyLink: 'https://example.com',
     },
   ],
-  /* certifications: [
+  / Calendly: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
+      name: 'Book time with Ricky here',
+      body: '',
+      year: '',
+      link: 'https://calendly.com/rtphawaii'
     },
   ], */
   education: [

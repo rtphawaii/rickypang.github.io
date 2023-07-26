@@ -24,7 +24,7 @@ const config = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    calendly: 'https://calendly.com/rtphawaii',
+    website: 'https://calendly.com/rtphawaii',
     phone: '',
     email: 'rpang16@gmail.com',
   },

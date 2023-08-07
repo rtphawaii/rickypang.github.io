@@ -41,14 +41,12 @@ const config = {
     'React.js',
     'MySQL',
     'PostgreSQL',
-    'Git',
-    'CSS',
-    'Tailwind',
+    'Git'
   ],
   experiences: [
     {
       company: 'UC Berkeley School of Information',
-      position: 'Masters in Data Science Candidate',
+      position: 'Master in Information and Data Science Candidate',
       from: 'September 2023',
       to: 'Present',
       companyLink: 'https://example.com',
@@ -78,7 +76,7 @@ const config = {
     },
     {
       institution: 'UC Berkeley',
-      degree: 'Masters in Data Science',
+      degree: 'Master in Information and Data Science',
       from: '2023',
       to: '2024',
     },

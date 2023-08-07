@@ -49,14 +49,14 @@ const config = {
       position: 'Master in Information and Data Science Candidate',
       from: 'September 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://ischoolonline.berkeley.edu/data-science/curriculum/',
     },
     {
       company: 'Zendesk',
       position: 'Sales Operations Analyst',
       from: 'July 2019',
       to: 'January 2023',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.zendesk.com/',
     },
   ],
   /* Calendly: [

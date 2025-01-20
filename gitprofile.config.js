@@ -4,10 +4,10 @@ const config = {
   github: {
     username: 'rtphawaii', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 10, // How many projects to display.
+    limit: 4, // How many projects to display.
     exclude: {
-      forks: false, // Forked projects will not be displayed if set to true.
-      projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      forks: true, // Forked projects will not be displayed if set to true.
+      projects: ['flask-app-demo','Poker-Project','W200-Project-2---LinkedIn-Job-Analysis','Osaka-Travel-Forecast'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
@@ -37,12 +37,11 @@ const config = {
     'R',
     'Salesforce Certified',
     'Tableau',
-    'SQL',
-    'Git'
+    'SQL'
   ],
   experiences: [
     {
-      company: 'UC Berkeley School of Information',
+      company: 'UC Berkeley School of Information - GPA: 3.96',
       position: 'Master of Information and Data Science',
       from: 'September 2023',
       to: 'May 2025',

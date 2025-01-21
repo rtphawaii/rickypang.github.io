@@ -71,10 +71,10 @@ const config = {
       to: '2020',
     },
     {
-      institution: 'UC Berkeley',
-      degree: 'Master in Information and Data Science',
+      institution: 'UC Berkeley - GPA: 3.96',
+      degree: 'Master of Information and Data Science',
       from: '2023',
-      to: '2024',
+      to: '2025',
     },
   ],
 
@@ -99,7 +99,7 @@ const config = {
       description:
         'sentiment classification using gpt-2 and a linear layer',
       imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBokEkMMIYLDbhA_J_gFGJKQvprU9q6KlNDw&s',
-      link: 'https://github.com/sameer-karim/w207-final-project',
+      link: 'https://github.com/rtphawaii/twitter-sentiment-classification/tree/main',
     }
   ],
   // Display blog posts from your medium or dev account. (Optional)
